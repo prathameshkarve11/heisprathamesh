@@ -1,17 +1,4 @@
-<div align="center">
-  <img src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" alt="hii" width="80%">  
-<br>
-
-<h1 align="center">Prathamesh karve🪐</h1>
-
- <p>🔎interested in javascript💲</p>
- 
-<p> 🌨️ currently into reactjs 👨‍💻  </p>
-
-<p>web devolopment is something i do when i get bored 🥽</p>
-
-<p>🙂 Ask me anything about cyber security, ready to help 🛡🙇‍♂️</p>
-
+<div>
 <h2>Skills</h2><br>
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
@@ -30,11 +17,7 @@
 
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 
-<br><br><br>
 
-<h3>I PLay Games, mostly saturday</h3>
- <br>
-<img src="https://media2.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/200w.gif?cid=82a1493ber5c1r1163q58c23gujir3ks6hk2mgtzzdd66apo&ep=v1_gifs_related&rid=200w.gif&ct=g" width="30%">
 </div>
 
 
